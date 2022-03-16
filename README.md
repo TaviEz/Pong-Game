@@ -10,7 +10,7 @@ The project is a console Pong Game written in C++ using classes, methods, for lo
 
 **Controls**
 
-The controls for the left paddle are "W" and "S" and for the right paddle are "o" and "l". If you want different controls just change the 156-159 lines to your preference. 
+The controls for the left paddle are ```W``` and ```S``` and for the right paddle are ```O``` and ```L```. If you want different controls just change the 156-159 lines to your preference. 
 
 **Screenshots**
 
@@ -18,7 +18,7 @@ The controls for the left paddle are "W" and "S" and for the right paddle are "o
 
 **Issues to be fixed**
 
-The paddles start moving after about a second if you hold one of the ```WSOL``` controls. On the other side, you can spam one of the control keys, but somtimes you will be late when trying to hit the ball.
+The paddles start moving after about a second if you hold one of the ```W S O L``` controls. On the other side, you can spam one of the control keys, but somtimes you will be late when trying to hit the ball.
 
 
 
