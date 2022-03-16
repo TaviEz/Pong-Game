@@ -206,7 +206,7 @@ public:
                 if (i == ballY && j == ballX)
                     cout << "O";// ball
                 else if (i == player1Y && j == player1X)
-                    cout << "\xDB"; // player1
+                    cout << "\xDB"; // player1 charmap
                 else if (i == player1Y + 1 && j == player1X)
                     cout << "\xDB"; // player1
                 else if (i == player1Y + 2 && j == player1X)
@@ -234,6 +234,9 @@ public:
 
         for (int j = 0; j < column + 2; j++)
             cout << "\xB2";
+        cout << endl;
+
+        cout << "Score 1: " << score1 << endl << "Score 2: " << score2;
     }
 
     void Input()
@@ -321,7 +324,6 @@ public:
             Draw();
             Input();
             Logic();
-            Sleep(10);
         }
     }
 
