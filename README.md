@@ -13,6 +13,10 @@ I chose to structure the code into 3 main classes: cBall, cPaddle and cGameManag
 
 The controls for the left paddle are ```W``` and ```S``` and for the right paddle are ```O``` and ```L```. If you want different controls just change the 156-159 lines to your preference. If you want to close the game just press ```q```.
 
+**Running the app**
+
+Download this repository into your computer and go into the *Debug* folder and run the *PongGame.exe* file.
+
 **Screenshots**
 
 ![pong](https://user-images.githubusercontent.com/100527261/158602699-d3205273-f3d7-4c0c-8ea5-0d879143ccc9.jpg)
