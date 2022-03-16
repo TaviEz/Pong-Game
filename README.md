@@ -16,6 +16,11 @@ The controls for the left paddle are "W" and "S" and for the right paddle are "o
 
 ![PONG](https://user-images.githubusercontent.com/100527261/158470947-ecde9cbc-f5e8-4da4-9775-e58171857823.PNG)
 
+**Issues to be fixed**
+
+The paddles start moving after about a second if you hold one of the ```WSOL``` controls. On the other side, you can spam one of the control keys, but somtimes you will be late when trying to hit the ball.
+
+
 
 
 
