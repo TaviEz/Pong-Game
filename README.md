@@ -10,11 +10,12 @@ The project is a console Pong Game written in C++ using classes, methods, for lo
 
 **Controls**
 
-The controls for the left paddle are ```W``` and ```S``` and for the right paddle are ```O``` and ```L```. If you want different controls just change the 156-159 lines to your preference. 
+The controls for the left paddle are ```W``` and ```S``` and for the right paddle are ```O``` and ```L```. If you want different controls just change the 156-159 lines to your preference. If you want to close the game just press ```q```.
 
 **Screenshots**
 
-![PONG](https://user-images.githubusercontent.com/100527261/158470947-ecde9cbc-f5e8-4da4-9775-e58171857823.PNG)
+![pong](https://user-images.githubusercontent.com/100527261/158602699-d3205273-f3d7-4c0c-8ea5-0d879143ccc9.jpg)
+
 
 **Issues to be fixed**
 
